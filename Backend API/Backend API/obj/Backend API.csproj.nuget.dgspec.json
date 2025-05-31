@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RaviDhileeban\\source\\repos\\Backend API\\Backend API\\Backend API.csproj": {}
+    "D:\\zPersonalProject\\Read-Configuration-in-ASP.NET-Core\\Backend API\\Backend API\\Backend API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RaviDhileeban\\source\\repos\\Backend API\\Backend API\\Backend API.csproj": {
+    "D:\\zPersonalProject\\Read-Configuration-in-ASP.NET-Core\\Backend API\\Backend API\\Backend API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RaviDhileeban\\source\\repos\\Backend API\\Backend API\\Backend API.csproj",
+        "projectUniqueName": "D:\\zPersonalProject\\Read-Configuration-in-ASP.NET-Core\\Backend API\\Backend API\\Backend API.csproj",
         "projectName": "Backend API",
-        "projectPath": "C:\\Users\\RaviDhileeban\\source\\repos\\Backend API\\Backend API\\Backend API.csproj",
+        "projectPath": "D:\\zPersonalProject\\Read-Configuration-in-ASP.NET-Core\\Backend API\\Backend API\\Backend API.csproj",
         "packagesPath": "C:\\Users\\RaviDhileeban\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RaviDhileeban\\source\\repos\\Backend API\\Backend API\\obj\\",
+        "outputPath": "D:\\zPersonalProject\\Read-Configuration-in-ASP.NET-Core\\Backend API\\Backend API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RaviDhileeban\\AppData\\Roaming\\NuGet\\NuGet.Config",
